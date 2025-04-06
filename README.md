@@ -22,10 +22,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1: Establish 2 or more compters on a network. This will ensure a way to view change in data. Will be using Virtual Machines as a means of demonstration.
+- Step 2: Install Sharkwire into computer that will relay info to other computer in the network. Will initiate 'ping' then a continuous ping to setup for Firewall Rule.
+- Step 3: Create new rule within network securuty group firewall.
+- Step 4: Check if ping has been stopped and ensure firewall was efficient.
 
 <h2>Actions and Observations</h2>
 
