@@ -3,7 +3,7 @@
 </p>
 
 <h1>Adding Data Center Roles Add Features</h1>
-This tutorial will outline the steps to take in order to add a Data Center Role and Feature <br />
+This tutorial will outline the steps to take in order to add a Data Center Role and Feature as a Server Admin <br />
 
 
 <h2>Environments and Technologies Used</h2>
@@ -16,10 +16,10 @@ This tutorial will outline the steps to take in order to add a Data Center Role 
 
 <h2>Objectives</h2>
 
-- Locate selection within the desired Server
+- Locate selection within the Domain Server
 - Find the desired Roles and Features
-- Configure and ready for install
-- Install and continue with productivity
+- Configure for install
+- Install (Microsoft Active Directory Administrative Center as example)
 
 <h2>Demonstration: Actions and Observations</h2>
 Upon login with the Windows Server Dashboard, select "Add Roles And Features"
