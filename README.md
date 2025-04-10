@@ -16,18 +16,19 @@ This tutorial will outline the steps to take in order to add a Data Center Role 
 
 <h2>Objectives</h2>
 
-- Step 1: Selection within the desired Server
-- Step 2: Find the desired Roles and Features
-- Step 3: Configure and ready for install
-- Step 4: Install and continue with productivity
+- Locate selection within the desired Server
+- Find the desired Roles and Features
+- Configure and ready for install
+- Install and continue with productivity
 
 <h2>Demonstration: Actions and Observations</h2>
-
+Upon login with the Windows Server Dashboard, select "Add Roles And Features"
 <p>
 <img src="https://i.imgur.com/TVyHAtp.png" height="80%" width="80%" />
 </p>
 <p>
-Type here......
+
+Continue to through the "Before you Begin"
 </p>
 <br />
 
@@ -35,7 +36,7 @@ Type here......
 <img src="https://i.imgur.com/3Y61L36.png" height="80%" width="80%" />
 </p>
 <p>
-Type here......
+Confirm the private IP Address of the Windows Server
 </p>
 <br />
 
@@ -43,34 +44,38 @@ Type here......
 <img src="https://i.imgur.com/TPa8Kh2.png" height="80%" width="80%" />
 </p>
 <p>
-Type here......
+
+Find and select desired selection
   
 <p>
 <img src="https://i.imgur.com/APjd6mo.png" height="80%" width="80%" />
 </p>
 <p>
-Type here......
+
+Continue to select "add features"
   
 <p>
 <img src="https://i.imgur.com/HjnqJed.png" height="80%" width="80%" />
 </p>
 <p>
-Type here......
+
+Confirm the selections by selecting the "Restart the destination [...]" to continue to installation
 
 <p>
 <img src="https://i.imgur.com/x18mkWv.png" height="80%" width="80%" />
 </p>
 <p>
-Type here......
+
+After confirming the automatic restart cautionary notification window, the installation should be ready.
 
 <p>
 <img src="https://i.imgur.com/7g7AnST.png"/>
 </p>
 <p>
-Type here......
 
+After the intallation is complete, confirmation should be present.
 <p>
 <img src="https://i.imgur.com/uzcK8Nc.png"/>
 </p>
 <p>
-Type here......
+Can view and access after restart.
