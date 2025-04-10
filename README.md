@@ -30,7 +30,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/TVyHAtp.png" height="80%" width="80%" />
 </p>
 <p>
 Type here......
@@ -38,7 +38,7 @@ Type here......
 <br />
 
 <p>
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/3Y61L36.png" height="80%" width="80%" />
 </p>
 <p>
 Type here......
@@ -46,31 +46,37 @@ Type here......
 <br />
 
 <p>
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/TPa8Kh2.png" height="80%" width="80%" />
 </p>
 <p>
 Type here......
   
 <p>
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/APjd6mo.png" height="80%" width="80%" />
 </p>
 <p>
 Type here......
   
 <p>
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/HjnqJed.png" height="80%" width="80%" />
 </p>
 <p>
 Type here......
 
 <p>
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/x18mkWv.png" height="80%" width="80%" />
 </p>
 <p>
 Type here......
 
 <p>
-<img src="" height="80%" width="80%" />
+<img src="https://i.imgur.com/7g7AnST.png"/>
+</p>
+<p>
+Type here......
+
+<p>
+<img src="https://i.imgur.com/uzcK8Nc.png"/>
 </p>
 <p>
 Type here......
